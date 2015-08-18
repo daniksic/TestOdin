@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOdin", "TestOdin\TestOdin.csproj", "{64977EC6-401E-4C5E-84D7-7C6C2330A021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOdin.Tests", "TestOdin.Tests\TestOdin.Tests.csproj", "{EF5B0A0F-BCF4-4242-A67C-F31455DE0B10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64977EC6-401E-4C5E-84D7-7C6C2330A021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64977EC6-401E-4C5E-84D7-7C6C2330A021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64977EC6-401E-4C5E-84D7-7C6C2330A021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64977EC6-401E-4C5E-84D7-7C6C2330A021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5B0A0F-BCF4-4242-A67C-F31455DE0B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5B0A0F-BCF4-4242-A67C-F31455DE0B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5B0A0F-BCF4-4242-A67C-F31455DE0B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5B0A0F-BCF4-4242-A67C-F31455DE0B10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
